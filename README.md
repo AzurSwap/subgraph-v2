@@ -2,6 +2,11 @@
 
 This repository has been forked from [UniswapV2 , Quickswap]()
 
+[ETH SUBGRAPH](https://thegraph.com/hosted-service/subgraph/azurswap/azurswap-eth-v2)
+[BSC SUBGRAPH](https://thegraph.com/hosted-service/subgraph/azurswap/azurswap-bsc-v2)
+[AVAX SUBGRAPH](https://thegraph.com/hosted-service/subgraph/azurswap/azurswap-avax-v2)
+
+
 This subgraph dynamically tracks any pair created by the Azurswap factory. It tracks of the current state of Azurswap contracts, and contains derived stats for things like historical data and USD prices.
 
 - aggregated data across pairs and tokens,
