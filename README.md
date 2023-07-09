@@ -8,6 +8,10 @@ This repository has been forked from [UniswapV2 , Quickswap]()
 
 [AVAX SUBGRAPH](https://thegraph.com/hosted-service/subgraph/azurswap/azurswap-avax-v2)
 
+[POLYGON SUBGRAPH](https://thegraph.com/hosted-service/subgraph/azurswap/azurswap-polygon-v2)
+
+[FANTOM SUBGRAPH](https://thegraph.com/hosted-service/subgraph/azurswap/azurswap-fantom-v2)
+
 
 This subgraph dynamically tracks any pair created by the Azurswap factory. It tracks of the current state of Azurswap contracts, and contains derived stats for things like historical data and USD prices.
 
